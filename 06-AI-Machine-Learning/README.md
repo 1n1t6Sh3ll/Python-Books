@@ -1,44 +1,41 @@
-# 🤖 AI & Machine Learning
+# 🤖 AI & Machine Learning Roadmap
 
-Build intelligent systems with machine learning and deep learning.
+Build intelligent systems with machine learning, deep learning, and AI.
 
-## 📚 Learning Path
+## 🗺️ Learning Path
 
-### 01-Beginner
-**Books in:** `01-Beginner/ML-Fundamentals/Books/`
-- aipython.pdf
-- Artificial-Intelligence-Modern-Approach-3rd.pdf
+### 🟢 01-Beginner (0-3 months)
+*Focus: Math Foundations & ML Basics*
+- [Math for ML](./01-Beginner/Math-for-ML/) - Linear Algebra, Calculus, Probability
+- [ML Fundamentals](./01-Beginner/ML-Fundamentals/) - Core concepts and simple algorithms
 
-**Topics:**
-- ML fundamentals
-- Math for ML (Linear Algebra, Calculus)
-- Basic algorithms
+### 🟡 02-Intermediate (3-6 months)
+*Focus: Classical Machine Learning*
+- [Supervised Learning](./02-Intermediate/Supervised-Learning/) - Regression, Classification, Trees
+- [Unsupervised Learning](./02-Intermediate/Unsupervised-Learning/) - Clustering, Dimensionality Reduction
 
-### 02-Intermediate
-**Books in:** `02-Intermediate/Supervised-Learning/Books/`
-- Bishop-Pattern-Recognition-ML-2006.pdf
+### 🔴 03-Advanced (6-12 months)
+*Focus: Deep Learning & Specializations*
+- [Deep Learning](./03-Advanced/Deep-Learning/) - Neural Networks, TensorFlow, PyTorch
+- [NLP](./03-Advanced/NLP/) - Text processing, Transformers, LLMs
+- [Computer Vision](./03-Advanced/Computer-Vision/) - CNNs, Object Detection, Image Generation
 
-**Topics:**
-- Supervised learning
-- Unsupervised learning
-- Model evaluation
-- Scikit-learn
+---
 
-### 03-Advanced
-- Deep learning (TensorFlow/PyTorch)
-- NLP applications
-- Computer vision
-- Model deployment
+## 🎯 Career Paths
+- **ML Engineer**: Focus on model training and deployment
+- **Data Scientist**: Focus on insights and business applications
+- **AI Research Scientist**: Focus on novel algorithms and papers
+- **MLOps Engineer**: Focus on infrastructure and pipelines
 
-## 🎯 Specializations
-- Natural Language Processing
-- Computer Vision
-- Reinforcement Learning
-- MLOps
+## 🧰 Global Resources
+- [Datasets](./Resources/Datasets/) - Training data sources
+- [Models](./Resources/Models/) - Pre-trained model hubs
+- [Research Papers](./Resources/Research-Papers/) - Key papers to read
 
-## 🚀 Projects
-1. Image classifier
-2. Sentiment analysis
-3. Recommendation system
-4. Object detection
-5. Chatbot
+## 🏆 Project Portfolio Ideas
+1. **Image Classifier** - Dogs vs Cats with CNN
+2. **Sentiment Analyzer** - Movie review classification
+3. **Recommendation System** - Collaborative filtering
+4. **Object Detector** - YOLO or Faster R-CNN
+5. **Chatbot** - Transformer-based conversational AI
